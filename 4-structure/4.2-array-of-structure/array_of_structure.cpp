@@ -1,3 +1,5 @@
+// Demonstrate of struct's array variable
+
 using namespace std;
 #include <iostream>
 #define SIZE 10

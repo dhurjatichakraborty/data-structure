@@ -1,3 +1,5 @@
+// Demonstrate of struct datatype
+
 using namespace std;
 #include <iostream>
 
