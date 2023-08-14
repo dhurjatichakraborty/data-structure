@@ -4,7 +4,7 @@ using namespace std;
 #include <iostream>
 #define SIZE 10
 
-struct structure_array
+struct StructureArray
 {
     int data;
 } var[SIZE];
